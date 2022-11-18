@@ -1,4 +1,6 @@
-﻿namespace Padrao_Builder
+﻿using Padrao_Builder.Models;
+
+namespace Padrao_Builder.Services
 {
     /// <summary>
     /// Abstract Builder - Construtor abstrato.

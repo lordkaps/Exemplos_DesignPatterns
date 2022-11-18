@@ -1,6 +1,6 @@
 ﻿using System.Collections;
 
-namespace Padrao_Builder
+namespace Padrao_Builder.Models
 {
     /// <summary>
     /// Modelo do produto

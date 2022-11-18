@@ -1,8 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using Padrao_Builder.Models;
 
-namespace Padrao_Builder
+namespace Padrao_Builder.Services
 {
     /// <summary>
     /// Concret Builder - Tipo Moto.

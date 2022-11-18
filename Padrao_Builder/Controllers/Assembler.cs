@@ -1,8 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using Padrao_Builder.Services;
 
-namespace Padrao_Builder
+namespace Padrao_Builder.Controllers
 {
     /// <summary>
     /// Director = Conectar as partes.
