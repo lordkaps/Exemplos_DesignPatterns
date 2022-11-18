@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Padrao_Builder", "Padrao_Bu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Padrao_Prototype", "Padrao_Prototype\Padrao_Prototype.csproj", "{687965CA-9F8E-46FE-8A00-2CB0DBE8C6B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Padrao_Singleton", "Padrao_Singleton\Padrao_Singleton.csproj", "{B4E79D04-79DF-4E41-99F5-071BF0B4C0F0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{687965CA-9F8E-46FE-8A00-2CB0DBE8C6B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{687965CA-9F8E-46FE-8A00-2CB0DBE8C6B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{687965CA-9F8E-46FE-8A00-2CB0DBE8C6B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4E79D04-79DF-4E41-99F5-071BF0B4C0F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4E79D04-79DF-4E41-99F5-071BF0B4C0F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4E79D04-79DF-4E41-99F5-071BF0B4C0F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4E79D04-79DF-4E41-99F5-071BF0B4C0F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
